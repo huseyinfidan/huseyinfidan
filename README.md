@@ -15,7 +15,7 @@ I am a 3rd-year Computer Engineering student at İstanbul Arel University, build
 ### 🚀 Featured Projects
 
 * **🏦 Banking System (Java):** A comprehensive banking application built in Eclipse/VS Code, handling dynamic user inputs based on OOP principles.
-* **🎮 Outlaw's Stand:** A game development project currently being built and optimized using Unity and web technologies.
+* **🎮 Outlaw's Stand:** A web-based game development project structured on HTML.
 * **📊 YouTube DB Management:** Database architecture with entity-relationship diagrams and cardinality logic, designed on Draw.io.
 * **🧠 Applied Informatics Research:** Data-driven academic reporting and analysis for Alzheimer's diagnosis.
 
