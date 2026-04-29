@@ -1,4 +1,4 @@
-# Hi, I'm Hüseyin Fidan! 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hüseyin%20Fidan&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff)
 
 I am a 3rd-year Computer Engineering student at İstanbul Arel University, building projects focused on software engineering, system design, and game development.
 
