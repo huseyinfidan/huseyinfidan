@@ -18,12 +18,6 @@ I am a 3rd-year Computer Engineering student at İstanbul Arel University, build
 * **🎮 Outlaw's Stand:** A web-based game development project structured on HTML.
 * **📊 YouTube DB Management:** Database architecture with entity-relationship diagrams and cardinality logic, designed on Draw.io.
 * **🧠 Applied Informatics Research:** Data-driven academic reporting and analysis for Alzheimer's diagnosis.
-* **🎵 Music Production:** Digital audio processing and production experiments using Akai MPD 232 and Reason 13.
-
----
-
-### 📈 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huseyinfidan&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
