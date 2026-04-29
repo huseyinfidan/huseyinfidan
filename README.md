@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hüseyin%20Fidan&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Hüseyin%20Fidan&fontSize=60&fontAlignY=50&fontColor=ffffff)
 
 I am a 3rd-year Computer Engineering student at İstanbul Arel University, building projects focused on software engineering, system design, and game development.
 
@@ -6,7 +6,7 @@ I am a 3rd-year Computer Engineering student at İstanbul Arel University, build
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=flat&logo=postgresql&logoColor=white) |
+| **Languages** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=flat&logo=postgresql&logoColor=white) |
 | **Concepts** | Object-Oriented Programming (OOP), Database Management, Data Analysis, System Design |
 | **Tools** | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
 
@@ -18,6 +18,11 @@ I am a 3rd-year Computer Engineering student at İstanbul Arel University, build
 * **🎮 Outlaw's Stand:** A web-based game development project structured on HTML.
 * **📊 YouTube DB Management:** Database architecture with entity-relationship diagrams and cardinality logic, designed on Draw.io.
 * **🧠 Applied Informatics Research:** Data-driven academic reporting and analysis for Alzheimer's diagnosis.
+
+---
+
+### 📈 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huseyinfidan&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
